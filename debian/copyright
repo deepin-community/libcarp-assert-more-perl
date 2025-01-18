@@ -4,7 +4,7 @@ Source: https://metacpan.org/release/Carp-Assert-More
 Upstream-Contact: Andy Lester <andy@petdance.com>
 
 Files: *
-Copyright: 2005-2021, Andy Lester <andy@petdance.com>
+Copyright: 2005-2024, Andy Lester <andy@petdance.com>
 License: Artistic-2.0
 
 Files: debian/*

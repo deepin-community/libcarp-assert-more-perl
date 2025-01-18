@@ -4,13 +4,13 @@
       "unknown"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 7.60, CPAN::Meta::Converter version 2.143240",
+   "generated_by" : "ExtUtils::MakeMaker version 7.70, CPAN::Meta::Converter version 2.143240",
    "license" : [
       "artistic_2"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
-      "version" : "2"
+      "version" : 2
    },
    "name" : "Carp-Assert-More",
    "no_index" : {
@@ -35,7 +35,8 @@
             "Carp" : "0",
             "Scalar::Util" : "0",
             "Test::Exception" : "0",
-            "Test::More" : "0.18"
+            "Test::More" : "0.18",
+            "perl" : "5.010001"
          }
       }
    },
@@ -44,9 +45,10 @@
       "bugtracker" : {
          "web" : "https://github.com/petdance/carp-assert-more/issues"
       },
+      "homepage" : "https://github.com/petdance/carp-assert-more",
       "license" : [
          "https://opensource.org/licenses/artistic-license-2.0.php"
       ]
    },
-   "version" : "v2.0.1"
+   "version" : "v2.5.0"
 }
